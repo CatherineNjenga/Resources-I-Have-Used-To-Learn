@@ -36,6 +36,13 @@
 ### Data Structures and Algorithms
 * [Algorithms by Robert Sedgewick](https://algs4.cs.princeton.edu/home/)
 
+### Patterns for Coding Questions
+* [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
+
+#### Youtube
+* [Maria Sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
+* [Neet Code](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g)
+
 #### Acknowledgements
 Inspiration for this repo is from @rmorabia.
 
