@@ -37,7 +37,8 @@
 * [Algorithms by Robert Sedgewick](https://algs4.cs.princeton.edu/home/)
 
 ### Patterns for Coding Questions
-* [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
+* [Neetcode](https://neetcode.io/) - free
+* [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview) - paid
 
 #### Youtube
 * [Maria Sitkovets](https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A)
